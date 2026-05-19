@@ -1,6 +1,6 @@
 # Olá, eu sou a Bianca! 🐢
 
-Formada Técnica em Informática pelo IFBA e estudante de Sistemas de Informação no IFSP. Gosto de criar coisas que façam sentido pra quem usa — meu principal projeto foi um gerenciador de tarefas gamificado com RPG porque achei que as ferramentas que existiam eram entediantes demais.
+Formada Técnica em Informática pelo IFBA e estudante de Sistemas de Informação na EACH USP. Gosto de criar coisas que façam sentido pra quem usa — meu principal projeto foi um gerenciador de tarefas gamificado com RPG porque achei que as ferramentas que existiam eram entediantes demais.
 
 Ainda estou no início da jornada, mas não desisto até aprender o que preciso.
 
