@@ -17,15 +17,7 @@ Ainda estou no início da jornada, mas não desisto até aprender o que preciso.
 
 ---
 
-## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biancawna&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=biancawna&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=biancawna&theme=tokyonight"/>
-</div>
-
----
 
 ## 📬 Entre em contato comigo!
 
